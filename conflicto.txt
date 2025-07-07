@@ -1,7 +1,1 @@
-<<<<<<< HEAD
 Desde main ...
-=======
-Desde main ...
-
-Modificado desde dev
->>>>>>> developer
